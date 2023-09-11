@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <mata charset="UTF-8">
+    <meta name="viewport"content="width=device-width, initial-scale=1.0">
+    <title>Hotel Menu<?h1>
+    <link rel="stylesheet"href="styles.css">
+</head>
+<body>
+ <header>
+ <h1>Hotel Menu</h1>
+ </header>
+ <div class="menu">
+</div>
+<script scr="script.js"></script>
+</body>
+</html>
